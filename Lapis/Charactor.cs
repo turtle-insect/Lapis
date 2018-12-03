@@ -26,6 +26,12 @@ namespace Lapis
 			}
 		}
 
+		public uint Job
+		{
+			get { return SaveData.Instance().ReadNumber(mAddress + 28, 2); }
+			set { SaveData.Instance().WriteNumber(mAddress + 28, 2, value); }
+		}
+
 		public uint Color
 		{
 			get { return SaveData.Instance().ReadNumber(mAddress + 32, 1); }

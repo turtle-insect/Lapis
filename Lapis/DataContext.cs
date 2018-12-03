@@ -9,6 +9,7 @@ namespace Lapis
 {
 	class DataContext
 	{
+		public Info Info { get; set; } = Info.Instance();
 		public ObservableCollection<Charactor> Party { get; set; } = new ObservableCollection<Charactor>();
 
 		public DataContext()

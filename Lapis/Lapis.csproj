@@ -60,6 +60,10 @@
     </Compile>
     <Compile Include="Charactor.cs" />
     <Compile Include="DataContext.cs" />
+    <Compile Include="ILineAnalysis.cs" />
+    <Compile Include="Info.cs" />
+    <Compile Include="JobIDConverter.cs" />
+    <Compile Include="NameValueInfo.cs" />
     <Compile Include="SaveData.cs" />
     <Compile Include="Util.cs" />
     <Page Include="AboutWindow.xaml">
