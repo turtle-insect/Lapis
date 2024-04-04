@@ -9,7 +9,7 @@ https://ec.nintendo.com/JP/ja/titles/70010000013006
 
 # 実行に必要
 * Windows マシン
-* .NET Framework 4.7.1の導入
+* .NET Framework 4.8の導入
 * セーブデータの吸い出し
 * セーブデータの書き戻し
 
