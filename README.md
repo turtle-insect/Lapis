@@ -15,7 +15,7 @@ https://ec.nintendo.com/JP/ja/titles/70010000013006
 
 # Build環境
 * Windows 10(64bit)
-* Visual Studio 2017
+* Visual Studio 2022
 
 # 編集時の手順
 * saveDataを吸い出す
